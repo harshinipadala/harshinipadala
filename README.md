@@ -4,9 +4,9 @@ I'm Harshini Padala, a senior computer science major at the University of Michig
 
 ## About Me
 
-- 🔭 I'm currently interning at Amazon this summer as a Software Development Intern for the Alexa Music team, gaining hands-on experience in building scalable applications.
-- 💼 Previously, I interned at Morgan Stanley, where I worked on building an application using multi-threading for real-time data analysis.
-- 🌱 I have experience in the following areas:
+🔭 I'm currently interning at Amazon this summer as a Software Development Intern for the Alexa Music team, gaining hands-on experience in building scalable applications.
+💼 Previously, I interned at Morgan Stanley, where I worked on building an application using multi-threading for real-time data analysis.
+🌱 I have experience in the following areas:
 
 ### Languages:
 - C++
