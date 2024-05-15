@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Harshini Padala, a senior computer science major at the University of Michigan, passionate about software and full-stack development.
+I'm Harshini Padala, a computer science major at the University of Michigan, passionate about software and full-stack development.
 
 ## About Me
 
