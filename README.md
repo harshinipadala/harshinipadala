@@ -20,14 +20,13 @@ I'm Harshini Padala, a computer science major at the University of Michigan, pas
 
 ### Frameworks and Libraries:
 - React
-- Node.js
+- Node
 - Express
 - Flask
 
 ### Tools and Technologies:
 - Git
 - Docker
-- AWS (Amazon Web Services)
 - Linux
 
 💬 Ask me about software development, web development, and data analysis.
