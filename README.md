@@ -12,6 +12,7 @@ I'm Harshini Padala, a computer science major at the University of Michigan, pas
 
 ### Languages:
 - C++
+- Java
 - Python
 - JavaScript
 - HTML
